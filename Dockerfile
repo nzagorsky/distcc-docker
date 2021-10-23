@@ -32,7 +32,7 @@ ENTRYPOINT [\
 # following params.
 CMD [\
   "--allow", "0.0.0.0/0", \
-  "--nice", "5", \
+  "--nice", "5" \
 ]
   # "--jobs", "5" \
 
